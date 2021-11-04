@@ -8,6 +8,9 @@ const TopBar = () => {
   const notificationAmounts = 18;
 
   const Container = styled.div`
+    position: sticky;
+    top: 0;
+    z-index: 5;
     display: flex;
     gap: 24px;
     align-items: center;
