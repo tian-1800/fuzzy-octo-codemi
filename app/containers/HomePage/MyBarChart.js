@@ -14,7 +14,6 @@ const MyBarChart = ({ type, propsData }) => {
         }
       });
       setdata(tempData);
-      console.log(tempData);
     }
   }, []);
 

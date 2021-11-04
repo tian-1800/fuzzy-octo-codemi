@@ -3,7 +3,6 @@
  *
  * This is the first thing users see of our App, at the '/' route
  *
- * https://covid19.mathdro.id/api/
  */
 
 import React, { useState, useEffect } from 'react';
